@@ -5,10 +5,6 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFrequency", "WordFrequency.csproj", "{5DAB1216-1A11-49AE-95B9-58B3EB3A50BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MersennePrimes", "..\MersennePrimes\MersennePrimes.csproj", "{DA2DC129-C272-4B73-8A54-4EB273C4DE57}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxApp", "..\TaxApp\TaxApp.csproj", "{D71655D9-8FB2-4291-AB31-B8A748D1A986}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,14 +15,6 @@ Global
 		{5DAB1216-1A11-49AE-95B9-58B3EB3A50BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DAB1216-1A11-49AE-95B9-58B3EB3A50BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DAB1216-1A11-49AE-95B9-58B3EB3A50BB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DA2DC129-C272-4B73-8A54-4EB273C4DE57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DA2DC129-C272-4B73-8A54-4EB273C4DE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DA2DC129-C272-4B73-8A54-4EB273C4DE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DA2DC129-C272-4B73-8A54-4EB273C4DE57}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D71655D9-8FB2-4291-AB31-B8A748D1A986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D71655D9-8FB2-4291-AB31-B8A748D1A986}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D71655D9-8FB2-4291-AB31-B8A748D1A986}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D71655D9-8FB2-4291-AB31-B8A748D1A986}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

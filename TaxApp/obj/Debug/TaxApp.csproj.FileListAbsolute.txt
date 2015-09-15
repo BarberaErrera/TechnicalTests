@@ -7,3 +7,6 @@ C:\Users\Barbera.Errera\Documents\Visual Studio 2013\TaxApp\obj\Debug\TaxApp.Pro
 C:\Users\Barbera.Errera\Documents\Visual Studio 2013\TaxApp\obj\Debug\TaxApp.csproj.GenerateResource.Cache
 C:\Users\Barbera.Errera\Documents\Visual Studio 2013\TaxApp\obj\Debug\TaxApp.exe
 C:\Users\Barbera.Errera\Documents\Visual Studio 2013\TaxApp\obj\Debug\TaxApp.pdb
+C:\Users\Barbera.Errera\Documents\GitHub\TechnicalTests\TaxApp\bin\Debug\TaxApp.exe.config
+C:\Users\Barbera.Errera\Documents\GitHub\TechnicalTests\TaxApp\obj\Debug\TaxApp.exe
+C:\Users\Barbera.Errera\Documents\GitHub\TechnicalTests\TaxApp\obj\Debug\TaxApp.pdb
