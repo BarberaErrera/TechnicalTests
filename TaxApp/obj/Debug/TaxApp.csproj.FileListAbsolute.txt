@@ -1,0 +1,9 @@
+C:\Users\Barbera.Errera\Documents\Visual Studio 2013\TaxApp\bin\Debug\TaxApp.exe.config
+C:\Users\Barbera.Errera\Documents\Visual Studio 2013\TaxApp\bin\Debug\TaxApp.exe
+C:\Users\Barbera.Errera\Documents\Visual Studio 2013\TaxApp\bin\Debug\TaxApp.pdb
+C:\Users\Barbera.Errera\Documents\Visual Studio 2013\TaxApp\obj\Debug\TaxApp.csprojResolveAssemblyReference.cache
+C:\Users\Barbera.Errera\Documents\Visual Studio 2013\TaxApp\obj\Debug\TaxApp.frmTaxPayable.resources
+C:\Users\Barbera.Errera\Documents\Visual Studio 2013\TaxApp\obj\Debug\TaxApp.Properties.Resources.resources
+C:\Users\Barbera.Errera\Documents\Visual Studio 2013\TaxApp\obj\Debug\TaxApp.csproj.GenerateResource.Cache
+C:\Users\Barbera.Errera\Documents\Visual Studio 2013\TaxApp\obj\Debug\TaxApp.exe
+C:\Users\Barbera.Errera\Documents\Visual Studio 2013\TaxApp\obj\Debug\TaxApp.pdb
