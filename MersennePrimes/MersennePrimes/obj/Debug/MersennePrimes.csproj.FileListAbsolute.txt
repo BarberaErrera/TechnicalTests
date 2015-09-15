@@ -1,0 +1,6 @@
+C:\Users\Barbera.Errera\Documents\Visual Studio 2013\MersennePrimes\bin\Debug\MersennePrimes.exe.config
+C:\Users\Barbera.Errera\Documents\Visual Studio 2013\MersennePrimes\bin\Debug\MersennePrimes.exe
+C:\Users\Barbera.Errera\Documents\Visual Studio 2013\MersennePrimes\bin\Debug\MersennePrimes.pdb
+C:\Users\Barbera.Errera\Documents\Visual Studio 2013\MersennePrimes\obj\Debug\MersennePrimes.csprojResolveAssemblyReference.cache
+C:\Users\Barbera.Errera\Documents\Visual Studio 2013\MersennePrimes\obj\Debug\MersennePrimes.exe
+C:\Users\Barbera.Errera\Documents\Visual Studio 2013\MersennePrimes\obj\Debug\MersennePrimes.pdb

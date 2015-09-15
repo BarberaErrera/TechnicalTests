@@ -1,0 +1,5 @@
+c:\users\barbera.errera\documents\visual studio 2013\WordFrequency\bin\Debug\WordFrequency.exe.config
+c:\users\barbera.errera\documents\visual studio 2013\WordFrequency\bin\Debug\WordFrequency.exe
+c:\users\barbera.errera\documents\visual studio 2013\WordFrequency\bin\Debug\WordFrequency.pdb
+c:\users\barbera.errera\documents\visual studio 2013\WordFrequency\obj\Debug\WordFrequency.exe
+c:\users\barbera.errera\documents\visual studio 2013\WordFrequency\obj\Debug\WordFrequency.pdb
